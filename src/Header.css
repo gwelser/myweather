@@ -1,0 +1,15 @@
+header {
+  background-color: cornflowerblue;
+  color: #fff;
+  margin-bottom: 1em;
+  padding: 1em;
+  text-align: center;
+}
+
+.logo {
+  display: inline-block;
+  font-weight: bold;
+  letter-spacing: 2px;
+  position: relative;
+  text-transform: uppercase;
+}

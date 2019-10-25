@@ -1,0 +1,22 @@
+.search {
+  display: flex;
+  align-items: center;
+  padding: 1em;
+}
+
+.search label {
+}
+
+.search input {
+  border: none;
+  border-bottom: 1px solid silver;
+  font-size: 1.5em;
+  margin-left: 1em;
+  outline: none;
+  padding: 0.25em 0.5em;
+  width: 100%;
+}
+
+.search {
+  text-align: center;
+}
